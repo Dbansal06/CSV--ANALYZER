@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Operating System generated files
+.DS_Store
+Thumbs.db
+# Editor specific files
+.vscode/
+.idea/
+# Log files, temporary files etc.
+*.log
+*.temp
