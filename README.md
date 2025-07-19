@@ -24,5 +24,24 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/csv-analyzer.git
-   cd csv-analyzer
+    git clone [https://github.com/Dbansal06/CSV--ANALYZER.git](https://github.com/Dbansal06/CSV--ANALYZER.git)
+    ```
+2.  **Navigate into the project directory:**
+    ```bash
+    cd CSV--ANALYZER
+    ```
+    *(Note: If your operating system is case-sensitive or if you want to be precise, use the exact casing as the folder name.)*
+
+3.  **[Optional, but recommended] Create and activate a virtual environment:**
+    ```bash
+    python -m venv .venv
+    # On Windows:
+    .venv\Scripts\activate
+    # On macOS/Linux:
+    source .venv/bin/activate
+    ```
+
+4.  **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
